@@ -42,5 +42,5 @@ Here are some ideas to get you started:
 
 <div>
     <img src="https://img.shields.io/badge/Go-blue?style=flat-square&logo=goland&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Swift-orange?style=flat-square&logo=swift&logoColor=white"/>
+    <!-- <img src="https://img.shields.io/badge/Swift-orange?style=flat-square&logo=swift&logoColor=white"/> -->
 </div>
